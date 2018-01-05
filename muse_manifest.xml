@@ -1,0 +1,34 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PachaWork.github.io" resolutions="1x" timestamp="1515178261351">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="___-_____-3.css" crc="3776666258" ref="без-имени-3"/>
+    <file name="nomq____-_____-3.css" crc="376979046" ref="без-имени-3"/>
+    <file name="index.css" crc="3960125173" ref="index"/>
+    <file name="nomq_index.css" crc="4160415066" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-3"/>
+    <file name="museutils.js" crc="3803043152" ref="index:без-имени-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:без-имени-3"/>
+    <file name="museconfig.js" crc="380897831" ref="index:без-имени-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:без-имени-3"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:без-имени-3"/>
+    <file name="require.js" crc="4157109226" ref="index:без-имени-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="без-имени-3"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="без-имени-3"/>
+    <file name="tools-and-utensils-u209-fr.png" crc="282413621" ref="без-имени-3"/>
+    <file name="tools-and-utensils.png" crc="50307978" ref="без-имени-3">
+      <caption webpage="без-имени-3" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="tools-and-utensils-u209-fr2.png" crc="3801383421" ref="без-имени-3"/>
+    <file name="tools-and-utensils-u209-fr3.png" crc="4017708858" ref="без-имени-3"/>
+    <file name="tools-and-utensils-u289-fr.png" crc="420470223" ref="без-имени-3"/>
+    <file name="tools-and-utensils-u209-fr4.png" crc="3881707434" ref="без-имени-3"/>
+    <file name="tools-and-utensils-u289-fr2.png" crc="30893726" ref="без-имени-3"/>
+  </folder>
+  <file name="index.html" crc="257910230" seo="true" mt="1515178240197" redirect="true"/>
+  <file name="без-имени-3.html" crc="63214828" seo="true" mt="1515110070031" redirect="true"/>
+</manifest>
